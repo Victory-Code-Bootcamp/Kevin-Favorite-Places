@@ -1,5 +1,5 @@
 body{background-color: rgba(8, 157, 177, 0.849);}
-.overlay{position:absolute;top:0;left:0;margin: 20px;width: 500px;color: ghostwhite;
+.overlay{position:absolute;top:0;left:0;margin: 20px;width: 500px;color: rgb(247, 248, 248);
     font-style: italic;}
 main{position:relative}
 
